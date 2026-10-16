@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "config": {
+    "trialMinutes": 5,
+    "recycleEvery": 10,
+    "epgCacheHours": 6,
+    "aboutUsage": ""
+  }
+}
