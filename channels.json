@@ -1,0 +1,342 @@
+{
+  "version": 2,
+  "updatedAt": "2026-10-16",
+  "channels": [
+    {
+      "no": 1,
+      "name": "CCTV-1 综合",
+      "webName": "CCTV1",
+      "pid": "600001859",
+      "cctvCode": "cctv1"
+    },
+    {
+      "no": 2,
+      "name": "CCTV-2 财经",
+      "webName": "CCTV2",
+      "pid": "600001800",
+      "cctvCode": "cctv2"
+    },
+    {
+      "no": 3,
+      "name": "CCTV-3 综艺",
+      "webName": "CCTV3",
+      "pid": "600001801",
+      "cctvCode": "cctv3"
+    },
+    {
+      "no": 4,
+      "name": "CCTV-4 中文国际",
+      "webName": "CCTV4",
+      "pid": "600001814",
+      "cctvCode": "cctv4"
+    },
+    {
+      "no": 5,
+      "name": "CCTV-5 体育",
+      "webName": "CCTV5",
+      "pid": "600001818",
+      "cctvCode": "cctv5"
+    },
+    {
+      "no": 6,
+      "name": "CCTV-6 电影",
+      "webName": "CCTV6",
+      "pid": "600108442",
+      "cctvCode": "cctv6"
+    },
+    {
+      "no": 7,
+      "name": "CCTV-7 国防军事",
+      "webName": "CCTV7",
+      "pid": "600004092",
+      "cctvCode": "cctv7"
+    },
+    {
+      "no": 8,
+      "name": "CCTV-8 电视剧",
+      "webName": "CCTV8",
+      "pid": "600001803",
+      "cctvCode": "cctv8"
+    },
+    {
+      "no": 9,
+      "name": "CCTV-9 纪录",
+      "webName": "CCTV9",
+      "pid": "600004078",
+      "cctvCode": "cctv9"
+    },
+    {
+      "no": 10,
+      "name": "CCTV-10 科教",
+      "webName": "CCTV10",
+      "pid": "600001805",
+      "cctvCode": "cctv10"
+    },
+    {
+      "no": 11,
+      "name": "CCTV-11 戏曲",
+      "webName": "CCTV11",
+      "pid": "600001806",
+      "cctvCode": "cctv11"
+    },
+    {
+      "no": 12,
+      "name": "CCTV-12 社会与法",
+      "webName": "CCTV12",
+      "pid": "600001807",
+      "cctvCode": "cctv12"
+    },
+    {
+      "no": 13,
+      "name": "CCTV-13 新闻",
+      "webName": "CCTV13",
+      "pid": "600001811",
+      "cctvCode": "cctv13"
+    },
+    {
+      "no": 14,
+      "name": "CCTV-14 少儿",
+      "webName": "CCTV14",
+      "pid": "600001809",
+      "cctvCode": "cctv14"
+    },
+    {
+      "no": 15,
+      "name": "CCTV-15 音乐",
+      "webName": "CCTV15",
+      "pid": "600001815",
+      "cctvCode": "cctv15"
+    },
+    {
+      "no": 16,
+      "name": "CCTV-16 奥林匹克",
+      "webName": "CCTV16-HD",
+      "pid": "600098637",
+      "cctvCode": "cctv16"
+    },
+    {
+      "no": 17,
+      "name": "CCTV-17 农业农村",
+      "webName": "CCTV17",
+      "pid": "600001810",
+      "cctvCode": "cctv17"
+    },
+    {
+      "no": 18,
+      "name": "北京卫视",
+      "webName": "北京卫视",
+      "pid": "600002309",
+      "cctvCode": ""
+    },
+    {
+      "no": 19,
+      "name": "天津卫视",
+      "webName": "天津卫视",
+      "pid": "600152137",
+      "cctvCode": ""
+    },
+    {
+      "no": 20,
+      "name": "河北卫视",
+      "webName": "河北卫视",
+      "pid": "600002493",
+      "cctvCode": ""
+    },
+    {
+      "no": 21,
+      "name": "山西卫视",
+      "webName": "山西卫视",
+      "pid": "600190407",
+      "cctvCode": ""
+    },
+    {
+      "no": 22,
+      "name": "内蒙古卫视",
+      "webName": "内蒙古卫视",
+      "pid": "600190401",
+      "cctvCode": ""
+    },
+    {
+      "no": 23,
+      "name": "辽宁卫视",
+      "webName": "辽宁卫视",
+      "pid": "600002505",
+      "cctvCode": ""
+    },
+    {
+      "no": 24,
+      "name": "吉林卫视",
+      "webName": "吉林卫视",
+      "pid": "600190405",
+      "cctvCode": ""
+    },
+    {
+      "no": 25,
+      "name": "黑龙江卫视",
+      "webName": "黑龙江卫视",
+      "pid": "600002498",
+      "cctvCode": ""
+    },
+    {
+      "no": 26,
+      "name": "东方卫视",
+      "webName": "东方卫视",
+      "pid": "600002483",
+      "cctvCode": ""
+    },
+    {
+      "no": 27,
+      "name": "江苏卫视",
+      "webName": "江苏卫视",
+      "pid": "600002521",
+      "cctvCode": ""
+    },
+    {
+      "no": 28,
+      "name": "浙江卫视",
+      "webName": "浙江卫视",
+      "pid": "600002520",
+      "cctvCode": ""
+    },
+    {
+      "no": 29,
+      "name": "安徽卫视",
+      "webName": "安徽卫视",
+      "pid": "600002532",
+      "cctvCode": ""
+    },
+    {
+      "no": 30,
+      "name": "东南卫视",
+      "webName": "东南卫视",
+      "pid": "600002484",
+      "cctvCode": ""
+    },
+    {
+      "no": 31,
+      "name": "江西卫视",
+      "webName": "江西卫视",
+      "pid": "600002503",
+      "cctvCode": ""
+    },
+    {
+      "no": 32,
+      "name": "山东卫视",
+      "webName": "山东卫视",
+      "pid": "600002513",
+      "cctvCode": ""
+    },
+    {
+      "no": 33,
+      "name": "河南卫视",
+      "webName": "河南卫视",
+      "pid": "600002525",
+      "cctvCode": ""
+    },
+    {
+      "no": 34,
+      "name": "湖北卫视",
+      "webName": "湖北卫视",
+      "pid": "600002508",
+      "cctvCode": ""
+    },
+    {
+      "no": 35,
+      "name": "湖南卫视",
+      "webName": "湖南卫视",
+      "pid": "600002475",
+      "cctvCode": ""
+    },
+    {
+      "no": 36,
+      "name": "广东卫视",
+      "webName": "广东卫视",
+      "pid": "600002485",
+      "cctvCode": ""
+    },
+    {
+      "no": 37,
+      "name": "广西卫视",
+      "webName": "广西卫视",
+      "pid": "600002509",
+      "cctvCode": ""
+    },
+    {
+      "no": 38,
+      "name": "海南卫视",
+      "webName": "海南卫视",
+      "pid": "600002506",
+      "cctvCode": ""
+    },
+    {
+      "no": 39,
+      "name": "重庆卫视",
+      "webName": "重庆卫视",
+      "pid": "600002531",
+      "cctvCode": ""
+    },
+    {
+      "no": 40,
+      "name": "四川卫视",
+      "webName": "四川卫视",
+      "pid": "600002516",
+      "cctvCode": ""
+    },
+    {
+      "no": 41,
+      "name": "贵州卫视",
+      "webName": "贵州卫视",
+      "pid": "600002490",
+      "cctvCode": ""
+    },
+    {
+      "no": 42,
+      "name": "云南卫视",
+      "webName": "云南卫视",
+      "pid": "600190402",
+      "cctvCode": ""
+    },
+    {
+      "no": 43,
+      "name": "西藏卫视",
+      "webName": "西藏卫视",
+      "pid": "600190403",
+      "cctvCode": ""
+    },
+    {
+      "no": 44,
+      "name": "陕西卫视",
+      "webName": "陕西卫视",
+      "pid": "600190400",
+      "cctvCode": ""
+    },
+    {
+      "no": 45,
+      "name": "甘肃卫视",
+      "webName": "甘肃卫视",
+      "pid": "600190408",
+      "cctvCode": ""
+    },
+    {
+      "no": 46,
+      "name": "青海卫视",
+      "webName": "青海卫视",
+      "pid": "600190406",
+      "cctvCode": ""
+    },
+    {
+      "no": 47,
+      "name": "宁夏卫视",
+      "webName": "宁夏卫视",
+      "pid": "600190737",
+      "cctvCode": ""
+    },
+    {
+      "no": 48,
+      "name": "新疆卫视",
+      "webName": "新疆卫视",
+      "pid": "600152138",
+      "cctvCode": ""
+    }
+  ]
+}
