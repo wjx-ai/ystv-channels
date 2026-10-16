@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-10-16",
+  "version": 3,
+  "updatedAt": "2026-10-17",
   "channels": [
     {
       "no": 1,
@@ -336,6 +336,20 @@
       "name": "新疆卫视",
       "webName": "新疆卫视",
       "pid": "600152138",
+      "cctvCode": ""
+    },
+    {
+      "no": 49,
+      "name": "深圳卫视",
+      "webName": "深圳卫视",
+      "pid": "600002481",
+      "cctvCode": ""
+    },
+    {
+      "no": 50,
+      "name": "CGTN",
+      "webName": "CGTN",
+      "pid": "600014550",
       "cctvCode": ""
     }
   ]
