@@ -1,9 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "channels": [
-    {"name": "TVBS(台视)", "m3u8": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8", "note": "台湾·台视"},
-    {"name": "广州综合", "m3u8": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8", "note": "广东·广州台"},
-    {"name": "哈尔滨新闻综合", "m3u8": "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594", "note": "黑龙江·哈尔滨"},
-    {"name": "东方卫视国际", "m3u8": "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8", "note": "上海·东方卫视"}
+    {"name": "广州综合", "m3u8": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8", "note": "广东·广州台(腾讯CDN)"},
+    {"name": "哈尔滨新闻综合", "m3u8": "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594", "note": "黑龙江·哈尔滨(官方CDN)"}
   ]
 }
