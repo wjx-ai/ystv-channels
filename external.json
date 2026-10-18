@@ -1,12 +1,6 @@
 {
-  "version": 7,
+  "version": 8,
   "channels": [
-    {
-      "name": "广州综合",
-      "m3u8": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8",
-      "note": "广东·广州台(腾讯CDN)",
-      "proxy": false
-    },
     {
       "name": "哈尔滨新闻综合",
       "m3u8": "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594",
@@ -14,111 +8,177 @@
       "proxy": false
     },
     {
+      "name": "内蒙古卫视",
+      "m3u8": "https://epg.pw/stream/257b62e44b49294fba69f1d5689725632ae7d24594234533f23ee7cc1cc49c63.m3u8",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "北京卫视",
+      "m3u8": "https://epg.pw/stream/ed16a4cd210c9f9d6204ddc6fb5def63a1c54b60114fb61679e61363edea068b.m3u8",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "吉林卫视",
+      "m3u8": "https://epg.pw/stream/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "四川卫视",
+      "m3u8": "https://epg.pw/stream/c1d7aa9fdbe369ae7c3242d0dade547b7987e1e37e7e2098a45e794c3296f862.ctv",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "天津卫视",
+      "m3u8": "https://epg.pw/stream/5130db2a0db7213cccda6a66743eccb8ca7db6b5b8c54e87636fdd0b694ce979.ctv",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "安徽卫视",
+      "m3u8": "https://epg.pw/stream/80d1988862ff0162fdab6745b126a3a69d563855cbc5df750cd96b6424ea16a1.m3u8",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "山东卫视",
+      "m3u8": "https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.m3u8",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
       "name": "山西卫视",
-      "m3u8": "https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/f2dpoy0.m3u8",
-      "note": "山西·官方CDN",
-      "proxy": false
-    },
-    {
-      "name": "南京娱乐",
-      "m3u8": "https://epg.pw/stream/57c3c89e2d181de4c83fee8fba9a0bc8e60c27af3b834a87b96380fb000b28ed.m3u8",
-      "note": "江苏·南京·epg.pw",
+      "m3u8": "https://epg.pw/stream/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "南京资讯",
-      "m3u8": "https://epg.pw/stream/3b410af631ef86077685d36ae62eccce5a427aba62be65c39edfa08ccb2c7965.m3u8",
-      "note": "江苏·南京·epg.pw",
+      "name": "广东卫视",
+      "m3u8": "https://epg.pw/stream/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2bcacbaf.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "南方卫视",
-      "m3u8": "https://epg.pw/stream/069c724c7c324d17825fcf8ee532b261de3aef322120d44ac80cdf96a891c8a9.m3u8",
-      "note": "广东·epg.pw",
+      "name": "广西卫视",
+      "m3u8": "https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "北京新闻",
-      "m3u8": "https://epg.pw/stream/df5f291b3e91d85d43f12c1253c789da96a06b0263fd5ccd662fd90514379fda.ctv",
-      "note": "北京·epg.pw",
+      "name": "新疆卫视",
+      "m3u8": "https://epg.pw/stream/ff921b905e5d0b1628a06f833e0de3632ce26572350b4c077f113e171d27bffe.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "北京文艺",
-      "m3u8": "https://epg.pw/stream/f9426f635fe4e7f6fc12fdd2ab39f57196afec9428443e600a10c566d8212209.ctv",
-      "note": "北京·epg.pw",
+      "name": "东南卫视",
+      "m3u8": "https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "北京科教",
-      "m3u8": "https://epg.pw/stream/d9607dea2f8e18d2582700bb5a7943c130bfc731c57ae9615971865692191e70.ctv",
-      "note": "北京·epg.pw",
+      "name": "东方卫视",
+      "m3u8": "https://epg.pw/stream/636d16f50c8d96b05c6c11994cc91e361e669419cee31b183d4568b76f288d08.ctv",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "北京纪实",
-      "m3u8": "https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8",
-      "note": "北京(名含8K,实际下发720p档)·epg.pw",
+      "name": "江苏卫视",
+      "m3u8": "https://epg.pw/stream/3d2796c6d253a8ce33491f776f534920256a756f0201e24e9d25b4c404ec2daa.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "武汉新闻综合",
-      "m3u8": "https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8",
-      "note": "湖北·武汉·epg.pw",
+      "name": "江西卫视",
+      "m3u8": "https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "武汉经济",
-      "m3u8": "https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8",
-      "note": "湖北·武汉·epg.pw",
+      "name": "河北卫视",
+      "m3u8": "https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "武汉文体",
-      "m3u8": "https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8",
-      "note": "湖北·武汉·epg.pw",
+      "name": "河南卫视",
+      "m3u8": "https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "浙江民生休闲",
-      "m3u8": "https://epg.pw/stream/e557930ad2b9039ae136a9a13434e42dc05dbf6fd672cb0058a35d7f846b6ddc.m3u8",
-      "note": "浙江·杭州·epg.pw",
+      "name": "浙江卫视",
+      "m3u8": "https://epg.pw/stream/18109b1804a4d4c8acd2a83f3256b7495a047d7f5cf918ef92febd030933bfc2.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "浙江经济生活",
-      "m3u8": "https://epg.pw/stream/b32906254ffc9df42586a87cb76bb15a5e5339c638cbbc0370ccf139ce311cc7.m3u8",
-      "note": "浙江·杭州·epg.pw",
+      "name": "海南卫视",
+      "m3u8": "https://epg.pw/stream/13db356c0b392d00d91868541b8e5b62ef81bc91f1ab1f35444739650b5b1420.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "第一财经",
-      "m3u8": "https://epg.pw/stream/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8",
-      "note": "上海·epg.pw",
+      "name": "深圳卫视",
+      "m3u8": "https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "生活时尚",
-      "m3u8": "https://epg.pw/stream/9d62fc46bb74c3eb66fdba1935da47edd87f2751f434f9d082bf0b036503db29.m3u8",
-      "note": "上海·epg.pw",
+      "name": "湖北卫视",
+      "m3u8": "https://epg.pw/stream/a168d5ee9a5535ed5d363fe5b921fc96b8e59faeb98d0a1780505ad1384b0a00.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "西安新闻综合",
-      "m3u8": "https://epg.pw/stream/fc5afb49ebe680ac7ac496557b864a6b02f1fcf524a521333547d2c2b1852348.m3u8",
-      "note": "陕西·西安·epg.pw",
+      "name": "湖南卫视",
+      "m3u8": "https://epg.pw/stream/d52964aac9910bfbdd885e0138b82fe305407bea3bb18b1f38f97190e60ec9b5.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "石家庄都市",
-      "m3u8": "https://epg.pw/stream/05aa42fbc9d722e77cf7250a2f50f9ec5e485e92fef15182116acfeb636af4f1.m3u8",
-      "note": "河北·石家庄·epg.pw",
+      "name": "甘肃卫视",
+      "m3u8": "https://epg.pw/stream/05ccbebe8d81cf91ecf4347845f6f0b42fed4bab4071195b0a4f735a80c386bd.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     },
     {
-      "name": "陕西都市青春",
-      "m3u8": "https://epg.pw/stream/4b5ab67e1e16244226143cde3847c6e7c8e1402906611e48a1f3562b3f709bbf.m3u8",
-      "note": "陕西·epg.pw",
+      "name": "西藏卫视",
+      "m3u8": "https://epg.pw/stream/de379ca26bc8e110b63a57f9d4b17db2fdb54047b99679d4c5434d1330b3d0d9.m3u8",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "辽宁卫视",
+      "m3u8": "https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "重庆卫视",
+      "m3u8": "https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "陕西卫视",
+      "m3u8": "https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "青海卫视",
+      "m3u8": "https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv",
+      "note": "epg.pw·省级卫视",
+      "proxy": true
+    },
+    {
+      "name": "黑龙江卫视",
+      "m3u8": "https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8",
+      "note": "epg.pw·省级卫视",
       "proxy": true
     }
   ]
