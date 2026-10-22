@@ -1,9 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
   "config": {
     "trialMinutes": 5,
     "recycleEvery": 10,
     "epgCacheHours": 6,
-    "aboutUsage": ""
+    "aboutUsage": "",
+    "revoked": []
   }
 }
