@@ -1,5 +1,5 @@
 {
- "version": 13,
+ "version": 14,
  "channels": [
   {
    "name": "老故事",
@@ -502,36 +502,6 @@
    "name": "兰州文旅频道",
    "m3u8": "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8",
    "note": "甘肃·兰州(官方CDN)"
-  },
-  {
-   "name": "青岛新闻综合",
-   "m3u8": "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8",
-   "note": "山东·青岛(官方CDN)"
-  },
-  {
-   "name": "青岛经济生活",
-   "m3u8": "http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8",
-   "note": "山东·青岛(官方CDN)"
-  },
-  {
-   "name": "青岛影视频道",
-   "m3u8": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
-   "note": "山东·青岛(官方CDN)"
-  },
-  {
-   "name": "青岛体育休闲",
-   "m3u8": "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8",
-   "note": "山东·青岛(官方CDN)"
-  },
-  {
-   "name": "青岛都市生活",
-   "m3u8": "http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8",
-   "note": "山东·青岛(官方CDN)"
-  },
-  {
-   "name": "青岛少儿",
-   "m3u8": "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8",
-   "note": "山东·青岛(官方CDN)"
   },
   {
    "name": "四平电视台",
