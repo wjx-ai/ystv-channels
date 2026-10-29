@@ -1,5 +1,5 @@
 {
- "version": 14,
+ "version": 15,
  "channels": [
   {
    "name": "老故事",
@@ -527,6 +527,132 @@
    "name": "CGTN 财经",
    "m3u8": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
    "note": "CGTN财经(央视国际CDN,境外线路,偶发需真机核)"
+  },
+  {
+   "name": "CCTV-1 综合",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-2 财经",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-3 综艺",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-4 国际",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-5 体育",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldcctvwbcd/cdrmldcctv5_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-6 电影",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv6_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-7 国防",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv7_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-8 电视剧",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-9 纪录",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv9_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-10 科教",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv10_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-11 戏曲",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv11_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-12 社会与法",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv12_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-13 新闻",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-14 少儿",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv14_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-15 音乐",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv15_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-16 奥林匹克",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldcctvwbcd/cdrmldcctv16_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "CCTV-17 农业农村",
+   "m3u8": "https://ldncctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv17_1/index.m3u8?b=200-2100",
+   "note": "央视网官方CDN·直连",
+   "proxy": true
+  },
+  {
+   "name": "ABN China (720p)",
+   "m3u8": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8",
+   "note": "iptv-org·国内CDN",
+   "proxy": true
+  },
+  {
+   "name": "Bread TV (720p)",
+   "m3u8": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+   "note": "iptv-org·国内CDN",
+   "proxy": true
+  },
+  {
+   "name": "Guangzhou TV",
+   "m3u8": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8",
+   "note": "iptv-org·国内CDN",
+   "proxy": true
+  },
+  {
+   "name": "Nei Monggol TV (960p)",
+   "m3u8": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
+   "note": "iptv-org·国内CDN",
+   "proxy": true
   }
  ]
 }
