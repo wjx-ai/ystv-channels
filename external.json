@@ -1,5 +1,5 @@
 {
- "version": 16,
+ "version": 17,
  "channels": [
   {
    "name": "老故事",
@@ -603,6 +603,54 @@
    "name": "Nei Monggol TV (960p)",
    "m3u8": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
    "note": "iptv-org·国内CDN·直连"
+  },
+  {
+   "name": "吉林市新闻综合",
+   "m3u8": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
+   "note": "吉林广电/网络台，代理转发",
+   "proxy": true
+  },
+  {
+   "name": "吉林市生活频道",
+   "m3u8": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8",
+   "note": "吉林广电/网络台，代理转发",
+   "proxy": true
+  },
+  {
+   "name": "吉林市影视剧频道",
+   "m3u8": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8",
+   "note": "吉林广电/网络台，代理转发",
+   "proxy": true
+  },
+  {
+   "name": "吉林市乡村频道",
+   "m3u8": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8",
+   "note": "吉林广电/网络台，代理转发",
+   "proxy": true
+  },
+  {
+   "name": "吉林市城市频道",
+   "m3u8": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8",
+   "note": "吉林广电/网络台，代理转发",
+   "proxy": true
+  },
+  {
+   "name": "白城一套",
+   "m3u8": "https://stream2.jlntv.cn/baicheng1/sd/live.m3u8",
+   "note": "吉林广电/网络台，代理转发",
+   "proxy": true
+  },
+  {
+   "name": "四平一套",
+   "m3u8": "http://stream2.jlntv.cn/sptv/sd/live.m3u8",
+   "note": "吉林广电/网络台，代理转发",
+   "proxy": true
+  },
+  {
+   "name": "湖南经视",
+   "m3u8": "https://p8.vzan.com/slowlive/415983998730568937/live.m3u8",
+   "note": "湖南经视，直连",
+   "proxy": false
   }
  ]
 }
