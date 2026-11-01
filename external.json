@@ -2,31 +2,31 @@
   "version": 17,
   "channels": [
     {
-      "name": "都市频道",
+      "name": "吉林都市频道",
       "m3u8": "jilin:3",
       "note": "吉林·官方CDN·运行时取签名",
       "proxy": true
     },
     {
-      "name": "生活频道",
+      "name": "吉林生活频道",
       "m3u8": "jilin:4",
       "note": "吉林·官方CDN·运行时取签名",
       "proxy": true
     },
     {
-      "name": "影视频道",
+      "name": "吉林影视频道",
       "m3u8": "jilin:5",
       "note": "吉林·官方CDN·运行时取签名",
       "proxy": true
     },
     {
-      "name": "乡村频道",
+      "name": "吉林乡村频道",
       "m3u8": "jilin:6",
       "note": "吉林·官方CDN·运行时取签名",
       "proxy": true
     },
     {
-      "name": "综艺·文化频道",
+      "name": "吉林综艺·文化频道",
       "m3u8": "jilin:8",
       "note": "吉林·官方CDN·运行时取签名",
       "proxy": true
@@ -39,7 +39,7 @@
       "alts": []
     },
     {
-      "name": "长春综合",
+      "name": "吉林长春综合",
       "m3u8": "jilin:31",
       "note": "吉林·官方CDN·运行时取签名",
       "proxy": true,
