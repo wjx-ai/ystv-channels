@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "channels": [
     {
       "name": "安多卫视",
@@ -210,7 +210,22 @@
     {
       "name": "ABN China (720p)",
       "m3u8": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8",
-      "note": "iptv-org·国内CDN·直连"
+      "note": "ABN·基督教·直连"
+    },
+    {
+      "name": "ABN SAT",
+      "m3u8": "https://mediaserver.abnvideos.com/streams/abnsat.m3u8",
+      "note": "ABN·基督教·直连"
+    },
+    {
+      "name": "Bread TV",
+      "m3u8": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+      "note": "基督教·直连"
+    },
+    {
+      "name": "CGNTV 中文",
+      "m3u8": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN_2.m3u8",
+      "note": "CGNTV·基督教中文·直连"
     },
     {
       "name": "三沙卫视",
