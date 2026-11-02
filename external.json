@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "channels": [
     {
       "name": "安多卫视",
@@ -10,6 +10,11 @@
       "name": "CGTN 财经",
       "m3u8": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
       "note": "CGTN财经(央视国际CDN,境外线路,偶发需真机核)"
+    },
+    {
+      "name": "石家庄新闻综合",
+      "m3u8": "https://live.sjzntv.cn/rftlive/809631088acd4294b547de1b96bb0001/809631088acd4294b547de1b96bb0001.m3u8",
+      "note": "河北·官方CDN·直连·1920x1080"
     },
     {
       "name": "河北卫视 4K",
@@ -27,6 +32,16 @@
       "m3u8": "http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8",
       "note": "吉林·官方CDN·SD·直连",
       "proxy": true
+    },
+    {
+      "name": "延边朝鲜语综合",
+      "m3u8": "https://srs.iyb983.cn/video/ybtv1/index.m3u8",
+      "note": "吉林·官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "延边汉语综合",
+      "m3u8": "https://srs.iyb983.cn/video/ybtv2/index.m3u8",
+      "note": "吉林·官方CDN·直连·1920x1080"
     },
     {
       "name": "四平电视台",
@@ -102,9 +117,99 @@
       "note": "黑龙江·哈尔滨(官方CDN)"
     },
     {
+      "name": "武进生活频道",
+      "m3u8": "https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd",
+      "note": "江苏·官方CDN·直连·720x576"
+    },
+    {
+      "name": "徐州公共频道",
+      "m3u8": "http://stream3.huaihai.tv/xz4t/sd/live.m3u8",
+      "note": "江苏·官方CDN·直连·1280x720"
+    },
+    {
+      "name": "杭州综合",
+      "m3u8": "https://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "嘉兴新闻综合",
+      "m3u8": "https://ali-xwl.cztv.com/live/jiaxingds.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "温州新闻综合",
+      "m3u8": "https://ali-xwl.cztv.com/live/wenzhouds.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "湖州新闻综合",
+      "m3u8": "https://ali-xwl.cztv.com/live/huzhouds.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "绍兴新闻综合",
+      "m3u8": "https://ali-xwl.cztv.com/live/shaoxingds.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "金华新闻综合",
+      "m3u8": "https://ali-xwl.cztv.com/live/jinhuads.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "浙江公共新闻",
+      "m3u8": "http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "浙江新闻",
+      "m3u8": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "浙江钱江都市",
+      "m3u8": "http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "浙江生活",
+      "m3u8": "https://ali-xwl.cztv.com/live/channel03720Pnew.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1280x720"
+    },
+    {
+      "name": "浙江少儿",
+      "m3u8": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "浙江经济",
+      "m3u8": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "浙江教育",
+      "m3u8": "http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1280x720"
+    },
+    {
       "name": "浙江国际",
       "m3u8": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8",
       "note": "浙江国际频道(官方CDN)"
+    },
+    {
+      "name": "浙江休闲台",
+      "m3u8": "http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1280x720"
+    },
+    {
+      "name": "浙江数码时代",
+      "m3u8": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8",
+      "note": "浙江·cztv官方CDN·直连·1280x720"
+    },
+    {
+      "name": "浙江民生",
+      "m3u8": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
     },
     {
       "name": "青岛新闻综合",
@@ -178,6 +283,26 @@
       "note": "甘肃·兰州(官方CDN)"
     },
     {
+      "name": "新疆电视台2套",
+      "m3u8": "http://120.70.60.179:9901/tsfile/live/1005_1.m3u8?key=txiptv",
+      "note": "iptv-org"
+    },
+    {
+      "name": "新疆电视台3套",
+      "m3u8": "http://120.70.60.179:9901/tsfile/live/1003_1.m3u8?key=txiptv",
+      "note": "iptv-org"
+    },
+    {
+      "name": "新疆电视台8套",
+      "m3u8": "http://120.70.60.179:9901/tsfile/live/1004_1.m3u8?key=txiptv",
+      "note": "iptv-org"
+    },
+    {
+      "name": "新疆卫视",
+      "m3u8": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv",
+      "note": "iptv-org"
+    },
+    {
       "name": "TVB美亚电影台",
       "m3u8": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
       "note": "港台·美亚(镜像)",
@@ -202,10 +327,120 @@
       "proxy": false
     },
     {
+      "name": "TVBPearl",
+      "m3u8": "http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "note": "港澳台·实测1080P/720P·直连·1280x720"
+    },
+    {
       "name": "TVB金视界",
       "m3u8": "http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8",
       "note": "香港·TVB(镜像)",
       "proxy": false
+    },
+    {
+      "name": "太谷新闻综合",
+      "m3u8": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0",
+      "note": "山西·融媒·直连·1024x768"
+    },
+    {
+      "name": "崇明新闻综合",
+      "m3u8": "https://p2txnj.njyqkj0ksyz.cc/slowlive/618839028840202594/live.m3u8?zbid=279676481&tpid=158969617",
+      "note": "上海·官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "新闻综合",
+      "m3u8": "https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8",
+      "note": "上海·官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "无线新闻",
+      "m3u8": "http://cc.123.rr.kg/163189/wxxwt",
+      "note": "港澳台·实测1080P/720P·直连·1280x720"
+    },
+    {
+      "name": "泸县新闻综合",
+      "m3u8": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8",
+      "note": "四川·县级融媒·直连·1920x1080"
+    },
+    {
+      "name": "衢江新闻综合",
+      "m3u8": "http://play-sh13.quklive.com/live/1700720505174325.m3u8?auth_key=2027466026-7724b0f948044faa9f0b8d0ecfc275fc-0-dfc23fb7449b475a18a52dc4b796516e",
+      "note": "浙江·cztv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "金川新闻综合",
+      "m3u8": "http://139.203.180.9:90/live/zhxw.m3u8",
+      "note": "四川·县级融媒·直连·1920x1080"
+    },
+    {
+      "name": "南康综合频道",
+      "m3u8": "https://play-a2.quklive.com/live/1758525653004384.m3u8",
+      "note": "江西·融媒·直连·1920x1080"
+    },
+    {
+      "name": "桦甸综合",
+      "m3u8": "http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild",
+      "note": "吉林·官方CDN·直连·720x576"
+    },
+    {
+      "name": "沐川综合",
+      "m3u8": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd",
+      "note": "四川·县级融媒·直连·1280x720"
+    },
+    {
+      "name": "瑞金综合频道",
+      "m3u8": "https://play-a2.quklive.com/live/1760408109205119.m3u8",
+      "note": "江西·融媒·直连·1920x1080"
+    },
+    {
+      "name": "靖宇综合",
+      "m3u8": "http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild",
+      "note": "吉林·官方CDN·直连·720x576"
+    },
+    {
+      "name": "龙华电影",
+      "m3u8": "https://8.fast.hidns.vip/163189/lhdy",
+      "note": "港澳台·实测1080P/720P·直连·1920x1080"
+    },
+    {
+      "name": "内蒙文体",
+      "m3u8": "http://play1-qk.nmtv.cn/live/2319general.m3u8",
+      "note": "内蒙·nmtv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "内蒙少儿",
+      "m3u8": "http://play1-qk.nmtv.cn/live/2318general.m3u8",
+      "note": "内蒙·nmtv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "内蒙经济",
+      "m3u8": "http://play1-qk.nmtv.cn/live/2317general.m3u8",
+      "note": "内蒙·nmtv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "清河经济综艺",
+      "m3u8": "https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8",
+      "note": "河北·官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "纬来精彩台",
+      "m3u8": "http://61.221.215.25:8800/hls/48/index.m3u8",
+      "note": "港澳台·实测1080P/720P·直连·1280x720"
+    },
+    {
+      "name": "美好人生电视台",
+      "m3u8": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w1709058862.m3u8",
+      "note": "iptv-org"
+    },
+    {
+      "name": "营山电视台",
+      "m3u8": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8",
+      "note": "四川·县级融媒·直连·1280x720"
+    },
+    {
+      "name": "金堂电视台",
+      "m3u8": "http://p8.vzan.com/slowlive/188010566442385577/live.m3u8",
+      "note": "四川·县级融媒·直连·1280x720"
     },
     {
       "name": "ABN China (720p)",
@@ -221,6 +456,31 @@
       "name": "CGNTV 中文",
       "m3u8": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN_2.m3u8",
       "note": "CGNTV·基督教中文·直连"
+    },
+    {
+      "name": "TV BRICS 中文",
+      "m3u8": "https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.ts.m3u8",
+      "note": "iptv-org"
+    },
+    {
+      "name": "WXTV",
+      "m3u8": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+      "note": "iptv-org"
+    },
+    {
+      "name": "内蒙农牧",
+      "m3u8": "http://play1-qk.nmtv.cn/live/2320general.m3u8",
+      "note": "内蒙·nmtv官方CDN·直连·1920x1080"
+    },
+    {
+      "name": "龙华偶像",
+      "m3u8": "http://8.fast.hidns.vip/163189/lhox",
+      "note": "港澳台·实测1080P/720P·直连·1920x1080"
+    },
+    {
+      "name": "龙华戏剧",
+      "m3u8": "https://8.fast.hidns.vip/163189/lhxj",
+      "note": "港澳台·实测1080P/720P·直连·1920x1080"
     },
     {
       "name": "三沙卫视",
@@ -611,41 +871,6 @@
       "name": "老故事",
       "migu": "884121956",
       "note": "咪咕直播·720p"
-    },
-    {
-      "name": "TV BRICS 中文",
-      "m3u8": "https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.ts.m3u8",
-      "note": "iptv-org"
-    },
-    {
-      "name": "新疆卫视",
-      "m3u8": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv",
-      "note": "iptv-org"
-    },
-    {
-      "name": "新疆电视台3套",
-      "m3u8": "http://120.70.60.179:9901/tsfile/live/1003_1.m3u8?key=txiptv",
-      "note": "iptv-org"
-    },
-    {
-      "name": "新疆电视台8套",
-      "m3u8": "http://120.70.60.179:9901/tsfile/live/1004_1.m3u8?key=txiptv",
-      "note": "iptv-org"
-    },
-    {
-      "name": "新疆电视台2套",
-      "m3u8": "http://120.70.60.179:9901/tsfile/live/1005_1.m3u8?key=txiptv",
-      "note": "iptv-org"
-    },
-    {
-      "name": "美好人生电视台",
-      "m3u8": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w1709058862.m3u8",
-      "note": "iptv-org"
-    },
-    {
-      "name": "WXTV",
-      "m3u8": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
-      "note": "iptv-org"
     }
   ]
 }
