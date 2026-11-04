@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "channels": [
     {
       "name": "安多卫视",
@@ -242,14 +242,14 @@
       "note": "山东·青岛(官方CDN)"
     },
     {
-      "name": "湖南经视",
+      "name": "亚洲电视（原湖南经视）",
       "m3u8": "https://p8.vzan.com/slowlive/415983998730568937/live.m3u8",
-      "note": "湖南(官方CDN)"
+      "note": "亚视画面·实测确认(非湖南经视)"
     },
     {
       "name": "湖南卫视 4K",
       "m3u8": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
-      "note": "湖南(官方CDN)"
+      "note": "湖南(官方CDN)·4K HEVC，需硬件解码"
     },
     {
       "name": "广州综合",
@@ -301,41 +301,6 @@
       "name": "新疆卫视",
       "m3u8": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv",
       "note": "iptv-org"
-    },
-    {
-      "name": "TVB美亚电影台",
-      "m3u8": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
-      "note": "港台·美亚(镜像)",
-      "proxy": false
-    },
-    {
-      "name": "TVB财经台",
-      "m3u8": "http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8",
-      "note": "香港·TVB(镜像)",
-      "proxy": false
-    },
-    {
-      "name": "TVB翡翠台",
-      "m3u8": "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8",
-      "note": "香港·TVB(镜像)",
-      "proxy": false
-    },
-    {
-      "name": "亚洲戏剧台",
-      "m3u8": "http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8",
-      "note": "港台·镜像",
-      "proxy": false
-    },
-    {
-      "name": "TVBPearl",
-      "m3u8": "http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0",
-      "note": "港澳台·实测1080P/720P·直连·1280x720"
-    },
-    {
-      "name": "TVB金视界",
-      "m3u8": "http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8",
-      "note": "香港·TVB(镜像)",
-      "proxy": false
     },
     {
       "name": "太谷新闻综合",
